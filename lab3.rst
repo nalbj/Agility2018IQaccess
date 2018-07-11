@@ -213,3 +213,60 @@ Note: Use the two changes made in the step above.
     |image94|
 
 |image95|
+.. |image77| image:: media/image74.png
+   :width: 6.50000in
+   :height: 2.31250in
+.. |image78| image:: media/image75.png
+   :width: 6.07431in
+   :height: 2.87061in
+.. |image79| image:: media/image76.png
+   :width: 6.22917in
+   :height: 2.67708in
+.. |image80| image:: media/image77.png
+   :width: 6.48958in
+   :height: 4.21875in
+.. |image81| image:: media/image78.png
+   :width: 6.50000in
+   :height: 4.22917in
+.. |image82| image:: media/image79.png
+   :width: 5.07292in
+   :height: 4.22743in
+.. |image83| image:: media/image80.png
+   :width: 6.50000in
+   :height: 4.92361in
+.. |image84| image:: media/image81.png
+   :width: 6.50000in
+   :height: 3.52778in
+.. |image85| image:: media/image82.png
+   :width: 6.50000in
+   :height: 3.52778in
+.. |image86| image:: media/image83.png
+   :width: 6.50000in
+   :height: 4.92361in
+.. |image87| image:: media/image84.png
+   :width: 6.50000in
+   :height: 4.69792in
+.. |image88| image:: media/image85.png
+   :width: 6.50000in
+   :height: 4.92361in
+.. |image89| image:: media/image86.png
+   :width: 6.50000in
+   :height: 3.52778in
+.. |image90| image:: media/image87.png
+   :width: 4.70833in
+   :height: 1.05460in
+.. |image91| image:: media/image88.png
+   :width: 6.50000in
+   :height: 4.94792in
+.. |image92| image:: media/image89.png
+   :width: 4.22917in
+   :height: 2.20722in
+.. |image93| image:: media/image90.png
+   :width: 6.50000in
+   :height: 4.43750in
+.. |image94| image:: media/image91.png
+   :width: 6.50000in
+   :height: 1.57292in
+.. |image95| image:: media/image92.png
+   :width: 4.18547in
+   :height: 2.20833in
