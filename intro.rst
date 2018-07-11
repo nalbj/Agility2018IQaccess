@@ -122,13 +122,13 @@ these features in the lab.
 
 After you log into BIG-IQ, you will notice:
 
-1 A navigation tab model at the top of the screen to display each high
+1) A navigation tab model at the top of the screen to display each high
    level functional area.
 
-2 A tree based menu on the left-hand side of the screen to display
+2) A tree based menu on the left-hand side of the screen to display
    low-level functional area for each tab.
 
-3 A large object browsing and editing area on the right-hand side of
+3) A large object browsing and editing area on the right-hand side of
    the screen.
 
 |image2|
@@ -190,6 +190,4 @@ Policy Manager so that it can be managed by BIG-IQ.
 .. |image4| image:: media/image5.tiff
    :width: 6.31944in
    :height: 7.85000in
-.. |image5| image:: media/image6.png
-   :width: 6.50000in
-   :height: 3.45208in
+
