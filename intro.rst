@@ -92,7 +92,7 @@ Dependencies
 -  Enable basic authentication on BIG-IQ using set-basic-auth on in the
    shell.
 
-***BIG-IP Versions*** AskF5 SOL with this info:
+**BIG-IP Versions** AskF5 SOL with this info:
 
 https://support.f5.com/kb/en-us/solutions/public/14000/500/sol14592.html
 
@@ -122,13 +122,13 @@ these features in the lab.
 
 After you log into BIG-IQ, you will notice:
 
-1) A navigation tab model at the top of the screen to display each high
+1 A navigation tab model at the top of the screen to display each high
    level functional area.
 
-2) A tree based menu on the left-hand side of the screen to display
+2 A tree based menu on the left-hand side of the screen to display
    low-level functional area for each tab.
 
-3) A large object browsing and editing area on the right-hand side of
+3 A large object browsing and editing area on the right-hand side of
    the screen.
 
 |image2|
