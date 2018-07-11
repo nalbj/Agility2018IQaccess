@@ -9,3 +9,5 @@ Self Guided Lab
    :glob:
    
    intro*
+   lab*
+ 
