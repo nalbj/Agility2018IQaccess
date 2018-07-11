@@ -367,3 +367,114 @@ using the BIG-IQ Centralized Manager.
 
 |image41|
 
+.. |image5| image:: media/image6.png
+   :width: 6.50000in
+   :height: 3.45208in
+.. |image6| image:: media/image7.png
+   :width: 6.50000in
+   :height: 2.66806in
+.. |image7| image:: media/image8.png
+   :width: 6.50000in
+   :height: 3.60625in
+.. |image8| image:: media/image9.png
+   :width: 6.50000in
+   :height: 1.68889in
+.. |image9| image:: media/image10.png
+   :width: 5.08264in
+   :height: 3.92222in
+.. |image10| image:: media/image11.png
+   :width: 6.50000in
+   :height: 1.92569in
+.. |image11| image:: media/image12.png
+   :width: 6.50000in
+   :height: 3.22222in
+.. |image12| image:: media/image13.png
+   :width: 2.47283in
+   :height: 2.83287in
+.. |image13| image:: media/image14.png
+   :width: 4.78750in
+   :height: 3.63512in
+.. |image14| image:: media/image15.png
+   :width: 3.35022in
+   :height: 3.16097in
+.. |image15| image:: media/image16.png
+   :width: 4.93953in
+   :height: 3.74838in
+.. |image16| image:: media/image17.png
+   :width: 4.93125in
+   :height: 3.55955in
+.. |image17| image:: media/image18.png
+   :width: 6.50000in
+   :height: 3.25000in
+.. |image18| image:: media/image19.png
+   :width: 6.50000in
+   :height: 1.46319in
+.. |image19| image:: media/image20.png
+   :width: 6.50000in
+   :height: 1.47222in
+.. |image20| image:: media/image21.png
+   :width: 6.49097in
+   :height: 2.34236in
+.. |image21| image:: media/image11.png
+   :width: 6.50000in
+   :height: 1.92569in
+.. |image22| image:: media/image12.png
+   :width: 6.50000in
+   :height: 3.22222in
+.. |image23| image:: media/image22.png
+   :width: 6.50000in
+   :height: 3.45347in
+.. |image24| image:: media/image23.png
+   :width: 4.68472in
+   :height: 3.06735in
+.. |image25| image:: media/image24.png
+   :width: 3.37361in
+   :height: 3.37361in
+.. |image26| image:: media/image25.png
+   :width: 6.51875in
+   :height: 4.25903in
+.. |image27| image:: media/image26.png
+   :width: 6.50000in
+   :height: 4.65764in
+.. |image28| image:: media/image27.png
+   :width: 6.50000in
+   :height: 3.47222in
+.. |image29| image:: media/image28.png
+   :width: 6.49097in
+   :height: 3.44444in
+.. |image30| image:: media/image29.png
+   :width: 6.49097in
+   :height: 3.41667in
+.. |image31| image:: media/image30.png
+   :width: 6.48125in
+   :height: 3.60208in
+.. |image32| image:: media/image31.png
+   :width: 6.49097in
+   :height: 3.46319in
+.. |image33| image:: media/image32.png
+   :width: 6.48125in
+   :height: 2.35208in
+.. |image34| image:: media/image33.png
+   :width: 6.50000in
+   :height: 5.18542in
+.. |image35| image:: media/image34.png
+   :width: 6.49097in
+   :height: 3.51875in
+.. |image36| image:: media/image35.png
+   :width: 5.68125in
+   :height: 2.85157in
+.. |image37| image:: media/image36.png
+   :width: 6.50000in
+   :height: 3.26319in
+.. |image38| image:: media/image37.png
+   :width: 6.49583in
+   :height: 2.94028in
+.. |image39| image:: media/image38.png
+   :width: 6.48750in
+   :height: 3.25625in
+.. |image40| image:: media/image39.png
+   :width: 6.50417in
+   :height: 3.25625in
+.. |image41| image:: media/image40.png
+   :width: 6.50000in
+   :height: 3.26319in
