@@ -213,6 +213,7 @@ Note: Use the two changes made in the step above.
     |image94|
 
 |image95|
+
 .. |image77| image:: media/image74.png
    :width: 6.50000in
    :height: 2.31250in
