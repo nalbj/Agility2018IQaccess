@@ -21,59 +21,6 @@ Information and are subject to the F5 Networks Reseller Agreement. You
 may not share these training materials and documentation with any third
 party without the express written permission of F5.
 
-`Overview 4 <#_Toc518815019>`__
-
-`Introduction 4 <#_Toc518815020>`__
-
-`Device Information 5 <#device-information>`__
-
-`Dependencies 6 <#dependencies>`__
-
-`How to access the lab in the Ravello environment 7 <#_Toc518815023>`__
-
-`The BIG-IQ User Interface 7 <#_Toc518815024>`__
-
-`Note: 10 <#note>`__
-
-`BIG-IQ Access Policy Manager 11 <#big-iq-access-policy-manager>`__
-
-`WORKFLOW 1: Access Policy Review
-11 <#workflow-1-access-policy-review>`__
-
-`WORKFLOW 2: Location Specific Object Modification
-12 <#workflow-2-location-specific-object-modification>`__
-
-`WORKFLOW 3: Modifying an existing APM access policy using VPE
-14 <#workflow-3-modifying-an-existing-apm-access-policy-using-vpe>`__
-
-`WORKFLOW 4: Create a new VPN Access profile
-19 <#workflow-4-create-a-new-vpn-access-profile>`__
-
-`WORKFLOW 5: View APM Audit logs and Dashboards 26 <#_Toc518815031>`__
-
-`BIG-IQ Device Management 33 <#big-iq-device-management>`__
-
-`WORKFLOW 1: Setting up of BIG-IQ Data Collection Devices (DCD).
-(REQUIRED)
-33 <#workflow-1-removing-previously-discovered-devices-for-this-lab-exercise>`__
-
-`WORKFLOW 2: Importing BIG-IP devices for management and inventory
-(REQUIRED) 36 <#_Toc518815034>`__
-
-`WORKFLOW 5: Automating device backups and archiving a copy of the
-backup file 44 <#_Toc518815035>`__
-
-`WORKFLOW 6: Uploading QKviews to iHealth for a support case
-47 <#_Toc518815036>`__
-
-`BIG-IQ Partial Deployment \| Partial Restore 51 <#_Toc518815037>`__
-
-`WORKFLOW 1: Create multiple changes. Deploy single change. (REQUIRED)
-51 <#_Toc518815038>`__
-
-`WORKFLOW 2: Create and deploy multiple changes with selected roll-back.
-(REQUIRED) 60 <#_Toc518815039>`__
-
 Overview
 ========
 
@@ -211,7 +158,9 @@ After you log into BIG-IQ, you will notice:
    application.
 
 -  Overview of left hand navigation for each top-level functional
-   area.\ |image4|
+   area.
+
+|image4|
 
 Note: 
 ======
