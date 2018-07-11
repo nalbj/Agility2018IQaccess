@@ -462,3 +462,109 @@ Navigate to the monitoring dashboards to validate that statistics are being coll
 -  We are going to move on to other parts of the lab while we collect
    some stats and then we will circle back when we have more data to
 work with.
+
+.. |image42| image:: media/image41.png
+   :width: 6.49097in
+   :height: 3.43542in
+.. |image43| image:: media/image42.png
+   :width: 6.50000in
+   :height: 6.32431in
+.. |image44| image:: media/image43.png
+   :width: 6.50000in
+   :height: 1.25278in
+.. |image45| image:: media/image44.png
+   :width: 1.60397in
+   :height: 0.21872in
+.. |image46| image:: media/image44.png
+   :width: 1.60397in
+   :height: 0.21872in
+.. |image47| image:: media/image45.png
+   :width: 6.50000in
+   :height: 1.30833in
+.. |image48| image:: media/image46.png
+   :width: 6.50000in
+   :height: 1.04444in
+.. |image49| image:: media/image47.png
+   :width: 6.50000in
+   :height: 0.83611in
+.. |image50| image:: media/image48.png
+   :width: 4.93125in
+   :height: 1.73045in
+.. |image51| image:: media/image49.png
+   :width: 6.50000in
+   :height: 0.73333in
+.. |image52| image:: media/image50.png
+   :width: 6.49097in
+   :height: 3.37986in
+.. |image53| image:: media/image51.png
+   :width: 5.13477in
+   :height: 2.15598in
+.. |image54| image:: media/image52.png
+   :width: 6.50000in
+   :height: 0.71667in
+.. |image55| image:: media/image53.png
+   :width: 6.50000in
+   :height: 0.55903in
+.. |image56| image:: media/image54.png
+   :width: 2.26013in
+   :height: 0.93738in
+.. |image57| image:: media/image55.png
+   :width: 6.50000in
+   :height: 1.12500in
+.. |image58| image:: media/image54.png
+   :width: 2.26013in
+   :height: 0.93738in
+.. |image59| image:: media/image56.png
+   :width: 4.62442in
+   :height: 1.35400in
+.. |image60| image:: media/image57.png
+   :width: 3.92659in
+   :height: 1.02071in
+.. |image61| image:: media/image58.png
+   :width: 2.45803in
+   :height: 0.56243in
+.. |image62| image:: media/image59.png
+   :width: 6.50000in
+   :height: 1.82639in
+.. |image63| image:: media/image60.png
+   :width: 4.93125in
+   :height: 3.26643in
+.. |image64| image:: media/image61.png
+   :width: 2.28096in
+   :height: 1.23943in
+.. |image65| image:: media/image62.png
+   :width: 6.35479in
+   :height: 5.69259in
+.. |image66| image:: media/image63.png
+   :width: 6.50000in
+   :height: 2.21319in
+.. |image67| image:: media/image64.png
+   :width: 6.49097in
+   :height: 4.43542in
+.. |image68| image:: media/image65.png
+   :width: 1.88518in
+   :height: 0.92697in
+.. |image69| image:: media/image66.png
+   :width: 4.46819in
+   :height: 2.80173in
+.. |image70| image:: media/image67.png
+   :width: 1.93125in
+   :height: 1.26279in
+.. |image71| image:: media/image68.png
+   :width: 1.93125in
+   :height: 1.06679in
+.. |image72| image:: media/image69.png
+   :width: 6.49097in
+   :height: 2.37014in
+.. |image73| image:: media/image70.png
+   :width: 2.82256in
+   :height: 0.74991in
+.. |image74| image:: media/image71.png
+   :width: 1.93125in
+   :height: 1.35353in
+.. |image75| image:: media/image72.png
+   :width: 6.49097in
+   :height: 1.23125in
+.. |image76| image:: media/image73.png
+   :width: 5.84302in
+   :height: 4.64525in
